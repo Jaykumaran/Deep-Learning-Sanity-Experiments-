@@ -1,9 +1,9 @@
 ### Sanity checks 
 
-That may seem basic.
+That may seem basic. Yes it is :blue-fly-:
 
 
 
-*P.S*. GPT could have helped.
+*P.S*. Revising with GPT
 
 <img src = "Feature Map Visualization - UNet-PyTorch Hooks/media.gif">
