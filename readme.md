@@ -1,6 +1,6 @@
 ### Sanity checks 
 
-That may seem basic. Yes it is :blue-fly-:
+That may seem basic. Yes it is 🦌
 
 
 
