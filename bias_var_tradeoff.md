@@ -1,3 +1,5 @@
+Ideal: low bias, low variance for better generalization.
+
 <img src ="https://learnopencv.com/wp-content/uploads/2017/02/Bias-Variance-Tradeoff-In-Machine-Learning-1.png">
 
 
