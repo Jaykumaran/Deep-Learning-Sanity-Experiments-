@@ -10,4 +10,5 @@
 
 ## Vision Transformers
 - In ViT arent autoregressive so we dont apply any sort of masking unlike language tasks.
+- To transformer model we need to give a batch of sequence so make sure the shape is from (B,embed_dim, num_patches) -> (B, num_patches, embed_dim)
 
