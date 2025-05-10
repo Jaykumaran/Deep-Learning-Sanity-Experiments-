@@ -5,5 +5,9 @@
 
 - The final linear layer will project the output in seq, vocab_size then apply softmax
 
-- In Cross Attention, the KV comes from Encoder(<SOS> . .  . <EOS>, Q comes from decoder (starts with <SOS>) and is fixed, so we can KV cache to speed up.  
+- In Cross Attention, the KV comes from Encoder(<SOS> . .  . <EOS>, Q comes from decoder (starts with <SOS>) and is fixed, so we can KV cache to speed up.
+
+
+## Vision Transformers
+- In ViT arent autoregressive so we dont apply any sort of masking unlike language tasks.
 
