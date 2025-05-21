@@ -15,3 +15,6 @@ Ideal: low bias, low variance for better generalization.
 |               |                                                           | - Use early stopping                                                                 |
 |               |                                                           | - Reduce model complexity (fewer layers/parameters)                                  |
 |               |                                                           | - Apply regularization (L1, L2, dropout, etc.)                                       |
+
+
+Good explanation: https://www.appliedaicourse.com/blog/bias-and-variance-in-machine-learning/
